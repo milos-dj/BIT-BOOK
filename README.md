@@ -10,5 +10,4 @@ DEMO : [BIT-BOOK](http://bit-book.djuretanovic.com/)
 ## Stack
 `Language:   HTML5, CSS3, JS(ES6+)` <br>
 `Library:  React, Bootstrap` <br>
-`Package Manager:  Yarn` <br>
-`Deployment: GitHub Pages`
+`Package Manager:  Yarn`
