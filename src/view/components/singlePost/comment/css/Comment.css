@@ -1,0 +1,20 @@
+.clearFix::after{
+    content: "";
+    clear: both;
+    display: block;
+}
+.comment-item{
+    background-color: white;
+    border: 1px solid lightgray;
+    margin: 3% 0;
+    padding: 3%;
+}
+
+.comment-item img{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 3%; 
+    background-color: lightgrey;
+    border: 2px solid #48b5f9;
+}

@@ -1,0 +1,54 @@
+.search-icon{
+    background-color: #48b5f9 !important;
+    color: white !important;
+
+}
+.search-input{
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+.user-item{
+    background-color: white;
+    border: 1px solid lightgray;
+    margin-bottom: 2%;
+    color: #73858e;
+    text-decoration: none;
+}
+.user-item a{
+    text-decoration: none;
+}
+.user-item img{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin: 20px 30px 15px 0px;
+    border: 2px solid #48b5f9;
+    background-color: #162643;
+}
+.people-header {
+    padding-top: 2%;
+}
+.people-header h4{
+    float: left;
+    clear: right;
+    color: #48b5f9;
+}
+.people-header span{
+    float: right;
+    margin-top: 1.5%;
+    font-size: 13px;
+    padding: 0.5% 1%;
+}
+.people-disc{
+    margin-top: 6%;
+    text-align: left;
+    text-decoration: none;
+    font-size: 14px;
+
+}
+.badge-primary{
+    background-color: #48b5f9 !important;
+}
+.user-list a{
+    text-decoration: none !important;
+}

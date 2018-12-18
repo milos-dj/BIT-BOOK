@@ -1,0 +1,11 @@
+.no-results {
+    margin: auto;
+    padding: 20%;
+    text-align: center;
+    color: grey;
+}
+
+.size{
+    font-size: 100px;
+    color: grey;
+}

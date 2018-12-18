@@ -1,0 +1,13 @@
+.counter-message{
+    font-size: 17px;
+    color: #48b5f9;
+}
+
+.post-type{
+    font-size: 17px;
+    color: #48b5f9;
+    border: 1px solid #48b5f9;
+    padding-left: 1%;
+    padding-right: 1%;
+    text-transform: uppercase;
+}

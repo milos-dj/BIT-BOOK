@@ -1,0 +1,64 @@
+.fab {
+    background: #03a9f4;
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    text-align: center;
+    color: #FFF;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5), 3px 3px 3px rgba(0, 0, 0, 0.25);
+    position: fixed;
+    bottom: 68px;
+    right: 68px;
+    font-size: 2.45em;
+    display: inline-block;
+    cursor: pointer;
+  }
+  .fab span {
+    /* vertical-align: middle; */
+  }
+  .fab.child {
+    right: 78px;
+    width: 42px;
+    height: 42px;
+    display: none;
+    opacity: 0;
+    font-size: 25px;
+  }
+  .backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.9;
+    display: none;
+  }
+  
+  .orange{
+    background-color: #FDA385;
+  }
+  .red{
+    background-color: #D13235;
+    font-size: 5px;
+  }
+  .green{
+    background-color: #69BA6D;
+  }
+  .blue{
+    background-color: #48b5f9;
+  }
+  .buttonText{
+    font-size: 20px;
+  }
+
+  .modal-input{
+    border: none;
+    border-bottom: 1px solid gray;
+    height: 40px;
+    color: lightgray;
+  }
+  .modal-input-text{
+    height: 100px;
+    border: none;
+    border-bottom: 1px solid gray;
+  }
